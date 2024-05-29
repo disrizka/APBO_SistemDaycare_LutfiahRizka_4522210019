@@ -25,5 +25,6 @@
 ![Class Diagram.](https://github.com/disrizka/APBO_SistemDaycare_LutfiahRizka_4522210019/assets/122336989/e9aee6a7-bd22-4496-9297-02b51c5e6450)
 
 # ERD
+![ERD usecase](https://github.com/disrizka/APBO_SistemDaycare_LutfiahRizka_4522210019/assets/122336989/69dd27f5-5453-49f7-9fe9-385a50b6f663)
 
 <br> Dengan menerapkan teknik analisis objek, diperoleh model sistem informasi daycare yang komprehensif dari use case, class diagram, dan ERD
