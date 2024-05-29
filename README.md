@@ -14,16 +14,15 @@
 <br> Penyusunan laporan (kehadiran, perkembangan anak, informasi penting/darurat)
 
 # Aktor yang terlibat
-<br> Aktor yang Terlibat:
-<br> Admin
-<br> Orang tua/Wali
-<br> Staf
+<br> Admin : Bertanggung jawab atas pengelolaan sistem secara keseluruhan, termasuk data pengguna, pengaturan sistem, dan pembuatan laporan.
+<br> Orang tua/Wali : Mengakses informasi anak, berkomunikasi dengan staf, dan melakukan pembayaran.
+<br> Staf : Mencatat kehadiran anak, melakukan kegiatan dengan anak, mencatat perkembangan anak, dan berkomunikasi dengan orang tua/wali.
 
 # Use Case
 ![Use Case](https://github.com/disrizka/APBO_SistemDaycare_LutfiahRizka_4522210019/assets/122336989/8ed8007e-e3c0-411d-a0b2-c8aaade3c8f5)
 
 # Class Diagram
-![Class Diagram](https://github.com/disrizka/APBO_SistemDaycare_LutfiahRizka_4522210019/assets/122336989/79085e41-c727-4b14-9713-4c2c7ab6aae5)
+![Class Diagram.](https://github.com/disrizka/APBO_SistemDaycare_LutfiahRizka_4522210019/assets/122336989/e9aee6a7-bd22-4496-9297-02b51c5e6450)
 
 # ERD
 
